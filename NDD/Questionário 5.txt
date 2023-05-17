@@ -1,0 +1,64 @@
+Questionário 5. Direito à privacidade.
+
+1.	O que é direito à privacidade? Explique. 
+2.	O que significa direito ao sigilo de 
+correspondência? 
+3.	Distinguir: interceptação telefônica de 
+escuta telefônica. 
+4.	O que é garantia de inviolabilidade de 
+dados? Explique. 
+5.	Explicar o sentido de proteção à honra e à
+imagem da pessoa
+
+Respostas:
+1. O direito à privacidade corresponde a um conjunto de dados 
+contidos na vida pessoal, profissional e social de um indivíduo que
+não podem fugir domínio. A concepção de privacidade deve ser entendida
+como o "direito de ser deixado só", que remete não só à 
+interferência do Estado na vida do indivíduo, mas também o poder de reivindicar
+ao Estado a tutela dessa privacidade, protegendo o indivíduo de terceiro.
+É um direito fundamental previsto em diversas legislações e tratados 
+internacionais de direitos humanos, incluindo a Constituição Federal brasileira.
+
+2. De acordo com o Inciso XII do Artigo 5 da Constituição Federal - 
+"e inviolável o sigilo da correspondência e das comunicações telegráficas, 
+de dados e das comunicações telefônicas, salvo, no último caso, por ordem judicial, 
+nas hipóteses e na forma que a lei estabelecer para fins de investigação criminal ou 
+instrução processual penal; (Vide Lei nº 9.296, de 1996)". Nessa perspectiva, 
+é entendido, que no Brasil, o sigilo de correspondências é garantido,
+mas não é absoluto. Existem situações em que o sigilo pode ser quebrado, 
+como quando há uma ordem judicial determinando a quebra de sigilo em casos de crimes, 
+no qual a troca de informações entre os envolvidos é relevante para o julgamento e 
+pode ser usada como prova.
+
+3. 
+Interceptação telefônica: nenhum dos dois interlocutores sabe que a conversa está 
+sendo gravada por um terceiro.
+Escuta telefônica: um dos dois interlocutores sabe que eles estão sendo gravados 
+por um terceiro.
+
+4. A Lei Geral de Proteção de Dados (LGPD) tem como objetivo promover a proteção de 
+dados pessoais de todo cidadão que esteja no Brasil, com base em parâmetros internacionais.
+Tanto a LGPD, quanto a Constituição Federal, garantem esse direito ao cidadão, dado
+as exceções legais. 
+
+5. A proteção à honra e à imagem da pessoa estão positivadas no art. 5º, inciso X 
+da Constituição da República, segundo o qual "são invioláveis a intimidade, a vida
+privada, a honra e a imagem das pessoas, assegurado o direito a indenização pelo 
+dano material ou moral decorrente de sua violação”.
+A honra, pode ser conceituada como "o conjunto de qualidade que caracterizam a dignidade das pessoas, 
+o respeito dos concidadãos, o bom nome, a reputação" (SILVA, 2005, p. 209).
+A expressão “imagem” pode se apresentar no universo jurídico com o significado de “imagem-retrato”, 
+aspecto meramente físico, ou “imagem-atributo”, outros aspectos relacionados ao indivíduo que podem ser
+ utilizados para provocar no público uma vinculação a ele (SOUZA, 2011).
+
+
+Fonte para respostas:
+https://www.aurum.com.br/blog/direito-a-privacidade/
+https://enciclopediajuridica.pucsp.br/verbete/71/edicao-1/direito-a-privacidade
+https://www.tjrj.jus.br/c/document_library/get_file?uuid=0a06b505-324f-4a86-8fb5-dcbf53bd8951&groupId=10136
+https://www.tjdft.jus.br/consultas/jurisprudencia/jurisprudencia-em-temas/direito-constitucional/copy_of_liberdade-de-expressao-desacato-tipicidade-ofensa-a-direito-alheio-convencao-americana-de-direitos-humanos#:~:text=%22III%20%2D%20A%20prote%C3%A7%C3%A3o%20do%20art,da%20Lei%20n%C2%BA%209.296%2F96.
+https://www.jusbrasil.com.br/artigos/diferenca-entre-interceptacao-telefonica-escuta-e-gravacao/1191306858
+https://lexuel.com.br/inviolabilidade-de-dados/#:~:text=A%20vida%20intima%20e%20a,violadas%2C%20contudo%20isso%20n%C3%A3o%20acontece.
+https://www.mpf.mp.br/servicos/lgpd/o-que-e-a-lgpd#:~:text=A%20Lei%20Geral%20de%20Prote%C3%A7%C3%A3o,da%20personalidade%20da%20pessoa%20natural.
+https://ambitojuridico.com.br/cadernos/direito-constitucional/protecao-a-honra-e-direito-de-imagem-a-exposicao-do-suspeito-pela-imprensa/
