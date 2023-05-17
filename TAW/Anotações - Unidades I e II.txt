@@ -1,0 +1,345 @@
+Tópicos de Ambiente Web
+
+UNIDADE I
+
+1º Aula 
+
+As redes de computadores: 
+são um conjunto de componentes que servem para troca de informação. Seu objetivo principal é o tráfego de dados entre 
+computadores, por meio de ferramentas de hardware e software, utilizando protocolos.
+
+Internet: 
+é um sistema que conecta computadores do mundo inteiro por meio de redes 
+interligadas.
+
+Surgimento da Internet:
+contexto da guerra fria e corrida espacial, EUA constrói as ARPANET (1957), que seria
+uma rede de transmissão de dados locais (inicialmente poucos estados, 
+porteriormente quase EUA todo). O Projeto ARPANET possibilitou o 
+compartilhamento de  informações online. A ARPANET era uma rede fechada. Esse 
+projeto foi o precursor da internet.
+
+2º Aula
+
+Cronologia da Internet
+1960 (início) - começam as primeiras ideias por cientistas da computação
+1960 (final) - constituição de uma rede de comunicação por meio de computadores
+1970 - formação de comunidades dispersas de computação
+1990 - nascimento da internet
+
+Navegadores de Internet - 
+1. Histórico
+1960 - Projeto Xanadu: Criar uma rede com interfaces simplificadas.
+1990 - Desenvolvimento do programa Enquire, um software que 
+possibilitava o recebimento de informações entre computadores
+1990 - Desenvolvido o hipertexto www (World Wide Web), a rede mundial.
+1993 - Mosaic foi o primeiro navegador que tinha as características 
+que vemos hoje nos navegadores
+
+2. Era Moderna 
+1994 - Netscape Navigator - o primeiro navegador comercial, foi a mesma criadora
+do Mosaic
+1995 - Internet Explorer 
+1995 - criação do JAVA
+
+3. Internet no Brasil
+1980: 
+- ocorreu o início da implantação da internet no Brasil, majoritariamente
+em Universidades e centros de pesquisa
+- O Laboratório Nacional de Computação Científica (LNCC) - RJ - realizou 
+a primeira conexão com  BITNET, que conectava Universidades no EUA
+- Fapesp se conecta a BITNET
+- RNP - Rede Nacional de Pesquisas, uma plataforma digital voltada 
+para pesquisa e inovação.
+
+1990:
+- RNP auxilia na implementação da primeira rede de internet no Brasil 
+- Brasil ingressa na NSFNET
+- Conexão LNCC - FAPESP (RJ - SP)
+- Em 1994 a rede vai a público, retirando a exclusividade da RNP
+- Em 1995 - Internet Comercial via Embratel - Mandic começa a fornecer
+acesso a internet
+- Em 1996 surge a UOL 
+
+3º Aula 
+
+Infraestrura da Internet
+- Internet é uma rede de computadores que interconecta dispositivos
+por todo mundo
+- Interliga sistemas finais (hospedeiros) como: notebooks, tablets, 
+celulares, TVs, jogos, etc
+- Os sistemas finais são conectados entre si por meio de links de comunicação
+e comutadores de pacotes
+- Há vários tipos de enlaces (links de comunicação) como: cabos coaxiais,
+fios de cobre, fibras óticas, ondas de rádio. Os diferentes tipos de link
+transmitem dados com diferentes velocidades ou taxas, dadas em bits por segundo.
+
+Funcionamento da transmissão de dados via INTERNET
+- Envios de dados de um sistema final para outro: sistema final remetente -> sistema
+final receptor 
+- os dados são adicionados a bytes, formando os pacotes;
+- os pacotes são enviados por um comutador (roteadores) ao seu enlace de comunicação
+- a sequência que o pacote percorre por enlaces e comutadores, é chamada de rota ou caminho
+
+Protocolos de Rede
+- são regras que regem os processos de comunicação 
+- Transport Control Protocol (TCP) é um dos principais protocolos e opera na 
+camada de transporte, acrescentando funcionalidades, como garantia do fluxo de dados
+na transmissão.
+- Internet Protocol (IP) opera na camada de rede e possibilidade comunicação.
+- uma porta TCP está associada, de forma direta, a uma aplicação
+ou a um serviço específico, que utilizam protocolos específicos.
+
+Evolução da WEB
+WEB 1.0
+- anos iniciais da internet
+- não havia interação com usuário
+- sites em construção 
+- conteúdos estáticos e desatualizados
+
+WEB 2.0
+- WEB colaborativa - usuárias colaboravam 
+- surgimento de blogs, textos, tofos, fotos, áudios, vídeos 
+- comercialização de softwares
+
+WEB 3.0 
+- WEB inteligente - alto grau de organização 
+- IA
+- páginas e conteúdos personalizados na preferência do indivíduo
+- smartphones, tablets, videogames, tvs, relógios
+
+WEB Semântica
+- informações de modo padronizado - acesso facilitado 
+- recuperação, processamento e mediação da informação em benefício do usuário
+- computadores "compreendam" o sentido dos dados, de acordo com domínios específicos, 
+agregando maior conhecimento.
+- menos softwares e apps + browser
+
+4º Aula
+
+Negócios eletrônicos
+- tecnologias digitais e ambiente web para negócios empresariais
+- gestão insterna e gerenciamendo de fornecedores e parceiros 
+- comércio eletrônico (e-commerce)
+
+
+Categorias do comércio eletrônico 
+- B2B: Business to business
+- B2C: Business to consumer 
+- B2E: Business to employee - empresas vendem para seus própios 
+funcionários
+- B2G: Business to gorvernment
+- C2C: Consumer to consumer - mercado livre, olx, etc
+
+--------------------------------------------------------------------------------------------------------------------
+
+UNIDADE II
+
+1º Aula
+
+Criação de padrões para páginas WEB
+- o uso de padrões diminui o tempo de projetos;
+- elementos de facilitação voltados para inclusão;
+- separação entre estrutura e apresentação do site.
+
+HTML
+- linguagem de marcação de hipertexto - tag language;
+- não é uma linguagem de programação - não há uma compilação de um programa executável
+- o código é responsável por exibir na tela o que foi codificado em HTML;
+- arquivos resultandos do html são pequenos;
+- não necessita de um editor especial.
+
+linguagens que funcionam com HTML:
+- JavaScript e VBScript (eventos) / PHP (banco de dados) / JAVA (interfaces gráficas)
+
+Um documento HTML é dividido em seções: início, cabeçalho, título, corpo e fim.
+
+
+2º Aula 
+
+HTML 5
+- 5ª versão;
+- novos recursos em html, CSS, DOM e JS;
+- redução de plugins exertos, como flash;
+- independencia dos dispositivos;
+- inclusao do header e footer;
+- tags audio e video; 
+- etc
+
+Navegação da Internet:
+- Estrutural
+é uma navegação em que uma página da WEB está ligada a outra página, de acordo
+com uma hierarquia;
+
+- Associativa
+tem relação com links de hipertexto: como rodapés, quando você pausa o mouse em um link e 
+aparece as relações daquele link, por exemplo;
+
+- Utilitária 
+por exemplo, uma página que apresenta opções, como escolher o idioma de uma página.
+
+
+Tipos de página da Web:
+- Navegacionais: 
+direciona os visitantes ao conteúdo procurado, páginas principais, por exemplo;
+
+- Conteúdo: 
+artigos, textos, notícias, videos, etc - são páginas que contém motivos para pessoas visitarem o site;
+
+- Funcionais:
+possibilitam realizam de ações como, por exemplo: buscas, compras, verificação de emails, consultas, cadastros, etc.
+
+
+WordPress:
+- é uma plataforma do ambiente web destinada à publicação e gestão de conteúdos;
+- open source - código aberto
+
+Links e Navegação Web:
+- navegação é a forma como as pessoas mudam de uma página para outra na internet;
+- links são textos ou elementos gráficos que conduzem o usuário para outras páginas ou
+localizações diferentes da mesma página.
+
+
+3º Aula 
+
+Sites informativos: apresentam informação desejada para o usuário de um modo de fácil acesso.
+
+Sites interativos: caracterizados por terem interfaces funcionais, possuem grande capacidade de processamento de dados e programação avançada.
+
+Fases na criação de um site:
+
+1: briefing - ideia geral do site; 
+2: orçamento ao cliente;
+3: aprovação do orçamento;
+4: elaboração do esboço do site (protótipo);
+5: envio do esboço ao cliente;
+6: aprovação do esboço pelo cliente;
+7: desenvolvimento do deign do layout do site;
+8: desenvolvimento efetivo do site;
+9: realização de testes e SEO (técnicas que influenciam os algoritmos dos buscadores);
+10: definição das ferramentas usadas para a administração e estratégias de marketing; 
+11: aprovação final do site.
+
+Design de navegação: amplitude e profundidade
+
+amplitude: número de itens de menus existentes em uma página
+
+profundidade: número de níveis hierárquicos existentes na estrutura
+
+quanto maior amplitude, menor a profundidade 
+
+quanto menor amplitude, maior a profundidade
+
+
+Características desejáveis para um site:
+- facilidade de utilização;
+- layout atraente - gerar conforto ao usuário;
+- clareza visual;
+- desempenho e velocidade do site.
+
+Publicação de páginas web e sites:
+- páginas agrupadas de modo coerente;
+- design coerente em termos de estrutura, identidade visual, fonte, cores, etc;
+- ter identidade visual;
+- registrar um nome de domínio 
+
+Tipos de hospedagem:
+- compartilhada: sites compartilhando o mesmo servidos e seus recursos, como: memória, processamento,
+etc. Indicado para pequenas empresas e blogs pessoais.
+- servidor privado virtual: aloca um espaço reservado de processamento, memória e espaço em disco
+em um servidor. Indicado para empresas de médio porte.
+- nuvem: A nuvem hospeda recursos de computação de uma rede de servidores virtuais e físicos, permitindo maior
+escalonabilidade e flexibilidade para fazer alterações rapidamente.
+
+Segurança na Web:
+- a segurança cibernética é o esforço contínuo para proteger esses sistemas em rede 
+e todos os dados de usos não autorizados ou prejudiciais.
+
+Vulnerabilidade:
+- confidencialidade: restrição e respeito à privacidade das informações do indivíduo;
+- integridade: prevenção contra alterações ou destruições não autorizadas de informações;
+- disponibilidade: a informação deve estar disponível para o usuário - representa confiabilidade.
+
+Conceitos de ataque e ameaça:
+ataque: tentativa de violação;
+ameaça: possibilidade de haver um ataque;
+
+Tipos de ataque: 
+falsificação de e-mail, ataque de força bruta (tentativa e erro de usuário e senha), desconfiguração de página (defacement), scam (se passar por outra pessoa), farsas, etc.
+
+
+4º Aula 
+
+Violações:
+- de sigilo: duplicação de informações
+- de integridade:modificação de dados
+- de disponibilidade: destruição de dados 
+- furto de serviço: aproveitamento de algum recurso de forma não autorizada
+- recusa de serviço: impedir que o sistema continue operando ou ferindo sua funcionalidade
+
+Tipos de ataques:
+- DoS: intenção que o serviço tenha sua execução interrompida;
+- backdoors: acesso oculto de programas;
+- wiretapping: interceptação de chamada de voz;
+- web inaceitável: utilização de forma não permitida pela organização;
+- advance fee fraud: conduzir uma pessoa de fornecer informações confidenciais;
+- phising: tenta obter dados pessoais de um usuário através de um site que parece confiável.
+
+Malwares: junção de malicious e software
+exemplos: malwares infecciosos (vírus e worms); malwares não infecciosos (cavalo de troia);
+
+Vírus: 
+- vírus é um programa ou parte de um programa, normalmente malicioso, que se propaga pela
+intrudução dele mesmo, faz várias cópias de si;
+- trata-se de um malware que normalmente da execução ou de um arquivo hospedeiro para se tornar ativo.
+
+há vários tipos de virus: 
+- sorrateiros: ocultos ao usuário - infectam o disco rígido e executam processos sem consentimento.
+- dorminhocos: permanecem inativos durante a maiior parte do ano e agem em datas específicas.
+
+Worms ou vermes:
+- é um programa capaz de se multiplicar por uma rede;
+- semelhante ao vírus, mas não se propagam por cópias de si em outros arquivos, mas pela execução direta das suas cópias;
+- consome muitos recursos computacionais.
+
+Cavalo de troia:
+- usa da aparência para enganar o usuário;
+- uma vez que é executado, segue instruções de ataque autorizados pelo usuário.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
